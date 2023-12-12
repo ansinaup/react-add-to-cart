@@ -1,0 +1,100 @@
+.navbar-nav a{
+    font-size: 20px;
+}
+.card img{
+    height: 100vh;
+}
+
+.cart{
+    margin-left: 72px;
+}.image{
+    
+
+      width: 100px;
+      height: 100px;
+      margin-left: 70px;
+      margin-top: 20px;
+}
+.title{
+
+    font-weight:400;
+    margin-top: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+   
+  
+
+}
+
+.price{
+    font-weight: bold;
+    font-size: 20px;
+   
+
+}
+.background{
+    background-color: rgba(215, 211, 211, 0.229);
+    border-radius: 5px;
+    
+    
+}
+.btn1{
+    border: none;
+    width: 45px;
+    border-radius: 5px;
+   
+}
+
+
+
+ .btn2{
+    border: none;
+    width: 45px;
+    border-radius: 5px;
+    font-weight: bold;
+} 
+
+ .login{
+    background-color: rgba(114, 7, 114, 0.47) ;
+    width: 100%;
+    height: 80vh;
+    
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   /* display: flex; */
+   justify-content: center;
+   margin-bottom: 16.5rem;
+   padding-left: 2rem;
+}
+.log{
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    font-size: bold;
+
+}
+.logg{
+    border: none;
+    border-radius: 3px;
+    padding: 6px 16px; 
+}
+ @media screen and (max-width:1193px){
+    .background{
+       width: 300px;
+    }
+}
+ .cart1{
+   
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+   
+} 
+
+
+
+
+
+
+
